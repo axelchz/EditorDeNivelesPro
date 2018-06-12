@@ -14,20 +14,20 @@ Esta herramienta será utilziada para la creación y edición de niveles en nues
 ## Screemshots : 
 
 #### Ventana Principal
-![](https://github.com/axelchz/EditorDeNivelesPro/blob/master/Ventana%20Emergente.jpg)
+![](https://github.com/axelchz/EditorDeNivelesPro/blob/master/imagenes/ventana%20principal.jpg)
 
 
 
 #### Ventana Para editar Pasaje o Nivel
-![](https://github.com/axelchz/EditorDeNivelesPro/blob/master/Ventana%20Emergente.jpg)
+![](https://github.com/axelchz/EditorDeNivelesPro/blob/master/imagenes/venatana%20Pasaje.jpg)
 
 
 #### Ventana Para editar Archivos de los Assets
-![](https://github.com/axelchz/EditorDeNivelesPro/blob/master/Ventana%20Emergente.jpg)
+![](https://github.com/axelchz/EditorDeNivelesPro/blob/master/imagenes/venatna%20asset.jpg)
 
 
 
 #### Ventana Emergente para crear Asset
-![](https://github.com/axelchz/EditorDeNivelesPro/blob/master/Ventana%20Emergente.jpg)
+![](https://github.com/axelchz/EditorDeNivelesPro/blob/master/imagenes/Ventana%20Emergente.jpg)
 
 
