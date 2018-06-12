@@ -1,28 +1,16 @@
-# Titulo
-##Subtitulo 1
-Este es un texto
+# Herramienta : Editor de Niveles 
 
-## Subtitulo 2
-otro texto 
+Editor De Niveles_Herramienta
 
+Esta herramienta ser{a utilziada para la creación y edición de niveles en nuestro proyecto de jeugo personal.Será capaz de agregar e interconectar niveles, a la vez de llenarlos de texturas con normal Maps , agregar soporte de colisioens físicas y planear posicionamiento de la cámara.
 
-### Sub-sub -titulo
--item 1
--item 2
--item 3
+###Integrantes :
+-Chávez Campos, Axel Jair.
+-González Agüero, Josué.
 
-[Google](http://google.com);
 
 
 #Screemshots
-![](ventana_principal.jpg)
+[](ventana Pasaje.jpg);
 
-```java
-void setup()
-{
-    size (100,100);
-}
 
-void dra
-
-```
