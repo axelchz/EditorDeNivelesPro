@@ -1,4 +1,4 @@
-## ZONA
+### ZONA
 Sólo hay una zona por proyecto. Cada zona está conformada por un número de niveles. Posee los valores de **ancho** y **alto**.
 ### NIVEL
 Los niveles son independientes entre sí. Un nivel guarda cuatro tipos de datos: **Hitboxes** para ser usados en colisiones, **capas** que le dan su apariencia al nivel, **puertas** que son rutas que envían al jugador a otro nivel y **escenas** que son posiciones fijas predeterminadas para la cámara. Posee los valores de **ancho** y **alto**.
